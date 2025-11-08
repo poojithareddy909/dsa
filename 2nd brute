@@ -1,0 +1,11 @@
+int lar(vector<int> &arr,int n){
+    sort(arr.begin(),arr.end());
+    int lar=arr[n-1];
+    return lar;
+}
+int main(){
+    vector<int> arr={1,2,3,4,5};
+    int n=arr.size();
+    cout<<lar(arr,n);
+    
+}
