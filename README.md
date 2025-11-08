@@ -2,7 +2,7 @@
 Learning Data Structures and algorithms concepts and solving problems on them in cpp
 
 08/11/25:
-done basic codes like Arrays basics like traversal,insertions,deletion and searching
+done basic codes in Arrays basics like traversal,insertions,deletion and searching
 
 striver's sheet:-
 1)Reverse an Array:
