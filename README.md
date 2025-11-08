@@ -32,5 +32,8 @@ same logic folllows
  just run a loop and check if current ele is less than or equal to its next one if yes then return true else false
  TC:O(N) SC-O(1)
 
+ Neetcode sheet:
+ 1)concatenation of array
+
 
 
